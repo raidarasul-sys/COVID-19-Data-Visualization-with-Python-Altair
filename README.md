@@ -1,13 +1,13 @@
 # COVID-19 Visualization & Geospatial Analysis Using Python & Altair 
 
-## 🚀 Executive Summary
+## Executive Summary
 This project explores COVID-19 trends across the United States using Python, Altair, and Jupyter Notebook.
 
 The goal is to demonstrate declarative visualization with Altair and illustrate how interactive and geospatial views can reveal patterns in public health data.
 
 ---
 
-### 🎯 Business Problem / Objective
+### Business Problem / Objective
 Public health decision-makers need clear visuals to understand where COVID-19 cases and fatalities are concentrated and how they vary by geography.
 
 **This notebook answers:**
