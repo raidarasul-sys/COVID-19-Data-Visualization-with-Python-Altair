@@ -29,7 +29,10 @@ Public health decision-makers need clear visuals to understand where COVID-19 ca
 
 <img src="visuals/barchart.png" width="600">
 <img src="visuals/scatterplot.png" width="600">
-<img src="visuals/chloroplethmap.png" width="600">**This notebook answers:**
+<img src="visuals/chloroplethmap.png" width="600">
+
+
+*Findings*
 
 - **Which U.S. states report the highest confirmed case counts?**  
   The bar chart of total confirmed cases by state shows that New York has the highest case count in this snapshot of the data, followed by California, Florida, Texas, and New Jersey. These five states make up the worst-hit group among the top-10 states in the dataset.
